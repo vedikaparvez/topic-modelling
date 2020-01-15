@@ -65,7 +65,7 @@ mrcnn==0.2
 nbconvert==5.4.0
 nbformat==4.4.0
 networkx==2.2
-nltk==3.4
+nltk==3.4.5
 numpy==1.15.4
 odfpy==1.4.0
 opencv-python==3.4.4.19
