@@ -92,7 +92,7 @@ python-crontab==2.3.5
 python-dateutil==2.7.3
 pytz==2018.5
 PyWavelets==1.0.1
-PyYAML==3.12
+PyYAML==5.4
 requests==2.20.1
 s3transfer==0.1.13
 scikit-image==0.14.1
