@@ -68,7 +68,7 @@ networkx==2.2
 nltk==3.4
 numpy==1.15.4
 odfpy==1.4.0
-opencv-python==3.4.4.19
+opencv-python==4.2.0.32
 openpyxl==2.5.12
 pandas==0.23.4
 pandocfilters==1.4.2
